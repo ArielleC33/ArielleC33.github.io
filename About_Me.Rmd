@@ -1,0 +1,18 @@
+---
+title: "About Me"
+author: "Arielle"
+date: "10/17/2019"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+You can learn a little bit about me on this page 
+
+
