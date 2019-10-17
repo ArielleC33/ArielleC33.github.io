@@ -13,6 +13,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-You can learn a little bit about me on this page 
+You can learn a little bit about me [here](About.html)
 
 
