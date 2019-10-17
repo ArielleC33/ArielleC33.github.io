@@ -17,7 +17,7 @@ I often use [google](google.com) to do data science
 
 ## adding pics- this is adding pics to the website 
 
-You can learn a little bit about me [here](About.html)
+You can learn a little bit about me [here](About_Me.html)
 ![](IMG_7450.jpg)
 
 ###
