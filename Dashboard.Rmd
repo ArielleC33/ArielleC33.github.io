@@ -1,5 +1,5 @@
 ---
-title: "My First Dashboard"
+title: "My Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -11,25 +11,7 @@ library(flexdashboard)
 library(tidyverse)
 library(viridis)
 library(p8105.datasets)
-
 library(plotly)
-```
-
-```{r}
-set.seed(1)
-
-data(nyc_airbnb)
-nyc_airbnb = 
-  nyc_airbnb %>% 
-  mutate(rating = review_scores_location / 2) %>%
-  select(
-    neighbourhood_group, neighbourhood, rating, price, room_type, lat, long) %>%
-  filter(
-    !is.na(rating), 
-    neighbourhood_group == "Manhattan",
-    room_type == "Entire home/apt",
-    price %in% 100:500)  %>% 
-  sample_n(5000)
 ```
 
 
@@ -39,11 +21,11 @@ Column {data-width=650}
 ### Chart A
 
 ```{r}
-nyc_airbnb %>%
-  mutate(text_label = str_c("Price: $", price, '\nRating: ', rating)) %>% 
-  plot_ly(
-    x = ~lat, y = ~long, type = "scatter", mode = "markers",
-    color = ~price, text = ~text_label, alpha = 0.5)
+instacart %>% 
+  sample_n(10) %>%
+  group_by(product_name, order_dow) %>% 
+  summarize (mean=mean(order_hour_of_day)) %>% 
+  plot_ly(x = ~mean, y = ~product_name, type= "scatter", mode = "line")
 ```
 
 Column {data-width=350}
@@ -52,23 +34,22 @@ Column {data-width=350}
 ### Chart B
 
 ```{r}
- nyc_airbnb %>% 
-mutate(neighbourhood = fct_reorder(neighbourhood, price)) %>% 
-  plot_ly(y = ~price, color = ~neighbourhood, type = "box",
-          colors = "Set2")
+instacart %>% 
+  filter (aisle == c("fresh fruits", "fresh vegetables", "packaged vegetables fruits")) %>%
+  group_by (aisle, product_name) %>% 
+  summarize(n = n()) %>% 
+  filter (min_rank(desc(n)) < 4) %>% 
+  plot_ly(x = ~aisle, y = ~n, type = "bar")
 ```
 
 ### Chart C
 
 ```{r}
-nyc_airbnb %>% 
-  count(neighbourhood) %>% 
-  mutate(neighbourhood = fct_reorder(neighbourhood, n)) %>% 
-  plot_ly(x = ~neighbourhood, y = ~n, color = ~neighbourhood, type = "bar")
+instacart %>% 
+  count (aisle) %>% 
+  filter ( n > 10000) %>% 
+  plot_ly(x = ~aisle, y= ~n, color = ~aisle, type = "scatter")
 ```
 
 
-```{r}
-rmarkdown::render("Dashboard.Rmd", output_format = "flexdashboard::flex_dashboard")
-```
 
