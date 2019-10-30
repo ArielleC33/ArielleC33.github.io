@@ -4,7 +4,9 @@ navbar:
   title: "Home"
   right:
   - text: "About"
-    href: about.html
+    href: About.html
+  - text: "Experience"
+    href: Experiece.html
   - text: Examples
     menu: 
     - text: "Plot_ly"
@@ -12,7 +14,7 @@ navbar:
     - text: "Dashboard"
       href: Dashboard.html
   - icon: fa-envelope fa-lg
-    href: mailto:<you@youremail.com>
+    href: mailto:<ac4140@cumc.columbia.edu>
   - icon: fa-github fa-lg
     href: http://github.com/<ariellec33>/
 output:
