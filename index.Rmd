@@ -6,8 +6,6 @@ output:
     toc_float: true
 ---
 
-
-
 # This is Arielle's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
