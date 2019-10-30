@@ -6,6 +6,7 @@ output:
     toc_float: true
 ---
  Arielle Coq's Resume
+ 
 ![](R_Resume.pdf)
 
 
