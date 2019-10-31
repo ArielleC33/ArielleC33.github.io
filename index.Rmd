@@ -10,11 +10,7 @@ output:
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-Learning how to add links to a website 
-
 I often use [google](google.com) to do data science 
-
-Learning how to add a pciture to the website
 
 You can learn a little bit about me [here](About_Me.html)
 
