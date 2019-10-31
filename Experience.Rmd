@@ -57,8 +57,10 @@ Pacsi‐Sepulveda, A. L., Shelton, R. C., Rodriguez, C. B., Coq, A. T., & Tehran
 CITI- TC0087 “Human Subject Protection Training”
 HIPPA- TC0019: “Health Insurance Portability Accountability Act Research Training Course”
 
-### Membership and Skills
+### Membership 
 Member of the National Society of Leadership and Success
 Vice President of Columbia Women Leaders 
-Proficient - Microsoft Office, PowerPoint, Excel, Access, SAS (May 2019)
+
+### Skills 
+Proficient - Microsoft Office, PowerPoint, Excel, Access, SAS, R, GIS (2019)
 
