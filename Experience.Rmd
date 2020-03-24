@@ -5,10 +5,10 @@ output:
     toc: true
     toc_float: true
 ---
-## Arielle Tatyana Coq
-#### New york, NY
-#### Tel: 845-264-2353	
-####Email: ac4140@cumc.columbia.edu
+ <center> <h1>Arielle Tatyana Coq</h1> </center>
+  <center> <h2>New york, NY</h2> </center>
+  <center> <h3>Tel: 845-264-2353</h3> </center>
+  <center> <h4>Email: ac4140@cumc.columbia.edu</h4> </center>
 
 ### Education
 * Columbia University Mailman School of Public Health 
@@ -25,8 +25,8 @@ output:
     - May 2014
 
 ###Relative Coursework
-Columbia CORE,		SAS Course,		Epidemiology 2,		Biology I & II,
-Epidemiology in Chronic Disease, 		Introduction to Public Policy, Chemistry I & II, Machine Learning in Epidemiology, GIS, Data Science 
+Columbia CORE --		SAS Course --	Epidemiology 2 -- 	Biology I & II --
+Epidemiology in Chronic Disease -- Introduction to Public Policy  --  Chemistry I & II --  Machine Learning in Epidemiology --  GIS --  Data Science 
 
 ### Employment
 
