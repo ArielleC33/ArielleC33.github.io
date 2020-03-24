@@ -1,5 +1,5 @@
 ---
-title: "Arielle Coq's Website"
+title: "Arielle T. Coq's Website"
 output: 
   html_document:
     toc: true
