@@ -5,16 +5,24 @@ output:
     toc: true
     toc_float: true
 ---
-
 ## Arielle Tatyana Coq
 #### New york, NY
 #### Tel: 845-264-2353	
 ####Email: ac4140@cumc.columbia.edu
 
 ### Education
-Columbia University Mailman School of Public Health ¬– Department – Epidemiology Certificate – Epidemiology of Chronic Disease                                                              ,May Candidate 2020      
-State University of New York at Albany – Major – Public Health     Minor - Biology   Minor- Emergency Preparedness, Homeland Security and Cyber security	    			                  ,May 2018                  
-Our Lady of Lourdes High School – Regents Diploma 	                            ,May 2014
+* Columbia University Mailman School of Public Health 
+    - Department – Epidemiology 
+    - Certificate – Epidemiology of Chronic Disease                   
+    - May Candidate 2020      
+* State University of New York at Albany 
+    – Major – Public Health     
+    - Minor - Biology   
+    - Minor- Emergency Preparedness, Homeland Security and Cyber security	
+    - May 2018                  
+* Our Lady of Lourdes High School
+    - Regents Diploma 	                            
+    - May 2014
 
 ###Relative Coursework
 Columbia CORE,		SAS Course,		Epidemiology 2,		Biology I & II,
@@ -61,12 +69,12 @@ Epidemiology in Chronic Disease, 		Introduction to Public Policy, Chemistry I & 
 Pacsi‐Sepulveda, A. L., Shelton, R. C., Rodriguez, C. B., Coq, A. T., & Tehranifar, P. (2019). “You probably can’t feel as safe as normal women”: Hispanic women’s reactions to breast density notification. Cancer, 125(12), 2049–2056. doi: 10.1002/cncr.32002
 
 ### Certificates
-CITI- TC0087 “Human Subject Protection Training”
-HIPPA- TC0019: “Health Insurance Portability Accountability Act Research Training Course”
+* CITI- TC0087 “Human Subject Protection Training”
+* HIPPA- TC0019: “Health Insurance Portability Accountability Act Research Training Course”
 
 ### Membership 
-Member of the National Society of Leadership and Success
-Vice President of Columbia Women Leaders 
+* Member of the National Society of Leadership and Success
+* Vice President of Columbia Women Leaders 
 
 ### Skills 
 Proficient - Microsoft Office, PowerPoint, Excel, Access, SAS, R, GIS, Dedoose
