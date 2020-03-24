@@ -6,7 +6,9 @@ output:
     toc_float: true
 ---
 
+### Examples
 
+These examples as well as the dashboard in the next tab are done using the plotly library in R studio. A dataset called instacart was used to produce the following graphs below as well as the ones produced in the dashboard. 
 
 ```{r}
 library(tidyverse)
@@ -33,6 +35,7 @@ instacart %>%
   plot_ly(x = ~aisle, y = ~n, type = "bar")
 ```
 
+Line Graph
 ```{r}
 instacart %>% 
   sample_n(10) %>%
