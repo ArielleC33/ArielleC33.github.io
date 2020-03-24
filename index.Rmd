@@ -6,13 +6,17 @@ output:
     toc_float: true
 ---
 
-# This is Arielle's awesome website
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-I often use [google](google.com) to do data science 
+This website will give you more insight about who Arielle Coq is and what she is about. 
+
+![](IMG_2798.JPG)
+
+
 
 You can learn a little bit about me [here](About_Me.html)
 
 
 ###
+
+
