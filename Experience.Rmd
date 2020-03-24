@@ -8,7 +8,7 @@ output:
 #Resume
 
 ## Arielle Tatyana Coq
-#### 32 Brigam Lane, Hopewell Junction, NY, 12533 
+#### New york, NY
 #### Tel: 845-264-2353	 Email: ac4140@cumc.columbia.edu
 ### Education
 Columbia University Mailman School of Public Health ¬– Department – Epidemiology Certificate – Epidemiology of Chronic Disease                                                              ,May Candidate 2020      
@@ -17,16 +17,18 @@ Our Lady of Lourdes High School – Regents Diploma 	                           
 
 ###Relative Coursework
 Columbia CORE,		SAS Course,		Epidemiology 2,		Biology I & II,
-Epidemiology in Chronic Disease, 		Introduction to Public Policy, Chemistry I & II
+Epidemiology in Chronic Disease, 		Introduction to Public Policy, Chemistry I & II, Machine Learning in Epidemiology, GIS, Data Science 
 
 ### Employment
 
 #### Mailman School of Public Health				                                   -Summer 2018-present 	
 Research Assistant – Assist with data collection and analysis 		
 Collect, analyze and compiled data for breast cancer research in Hispanic population
+Conduct qualitative and quantitative analysis 
 
 #### The CAS Store    							                                           -Fall 2015- 2018  
-Clerk – Assist students and faculty in obtaining laboratory supplies
+Clerk – Assisted students and faculty in obtaining laboratory supplies
+Conduct inventory for the store
 
 #### Franklin County Family Health Center 				                            - Summer 2015
 Medical Assistant – Assisted all clinicians with patient care 
@@ -37,7 +39,7 @@ Research Intern- Sciences Economiques et Sociales de la Santé and Traitment de 
 Analyze and compiled data for people who inject drugs in 4 European Countries 
 Used information obtained to draft abstract for the research
 Develop power point repot to present data to research team
-Presented a Poster on preliminary findings 
+Presented a poster on preliminary findings 
 
 #### Columbia University - Mailman School of Public Health                     - Fall 2015- 2018  
 Research Intern – Herbert Irving Comprehensive Cancer Center (HICCC) Cure Program
@@ -62,5 +64,5 @@ Member of the National Society of Leadership and Success
 Vice President of Columbia Women Leaders 
 
 ### Skills 
-Proficient - Microsoft Office, PowerPoint, Excel, Access, SAS, R, GIS (2019)
+Proficient - Microsoft Office, PowerPoint, Excel, Access, SAS, R, GIS, Dedoose
 
