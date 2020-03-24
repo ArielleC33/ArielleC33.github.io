@@ -5,7 +5,6 @@ output:
     toc: true
     toc_float: true
 ---
-#Resume
 
 ## Arielle Tatyana Coq
 #### New york, NY
@@ -65,4 +64,12 @@ Vice President of Columbia Women Leaders
 
 ### Skills 
 Proficient - Microsoft Office, PowerPoint, Excel, Access, SAS, R, GIS, Dedoose
+
+### Other websites
+
+The website below was done for a class assignment. My group members and I were curious of food insecurities in the five boroughs of New York. We assessed the rates of food insecurity in each borough and did some explaratory analysis on the data that we found. We also created a page that would provide resources to indviduals with healthy food choices for each borough. 
+
+https://mm5351.github.io/foodjusticenyc.github.io/
+
+
 
