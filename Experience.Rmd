@@ -16,7 +16,7 @@ output:
     - Certificate – Epidemiology of Chronic Disease                   
     - May Candidate 2020      
 * State University of New York at Albany 
-    – Major – Public Health     
+    - Major – Public Health     
     - Minor - Biology   
     - Minor- Emergency Preparedness, Homeland Security and Cyber security	
     - May 2018                  
