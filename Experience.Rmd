@@ -5,66 +5,52 @@ output:
     toc: true
     toc_float: true
 ---
- <center> <h1>Arielle Tatyana Coq</h1> </center>
+ <center> <h1>Arielle T. Coq</h1> </center>
   <center> <h2>New york, NY</h2> </center>
   <center> <h3>Tel: 845-264-2353</h3> </center>
   <center> <h4>Email: ac4140@cumc.columbia.edu</h4> </center>
+  <center> <h5>Email: arielle.coq@gmail.com</h4> </center>
 
 ### Education
-* Columbia University Mailman School of Public Health 
-    - Department – Epidemiology 
-    - Certificate – Epidemiology of Chronic Disease                   
-    - May Candidate 2020      
-* State University of New York at Albany 
-    - Major – Public Health     
-    - Minor - Biology   
-    - Minor- Emergency Preparedness, Homeland Security and Cyber security	
-    - May 2018                  
-* Our Lady of Lourdes High School
-    - Regents Diploma 	                            
-    - May 2014
+* Columbia University, Mailman School of Public Health                            -May 2020
+    - Master of Public Health
+        - Department – Epidemiology 
+        - Certificate – Epidemiology of Chronic Disease                   
+* State University of New York at Albany                                          -May 2018
+    - Bachelor of Scinece
+        - Major – Public Health     
+        - Minor - Biology   
+        - Minor- Emergency Preparedness, Homeland Security and Cyber security	
+* Our Lady of Lourdes High School                                                 - June 2014
+    - Regents Diploma, Honors	                            
 
 ###Relative Coursework
-Columbia CORE --		SAS Course --	Epidemiology 2 -- 	Biology I & II --
-Epidemiology in Chronic Disease -- Introduction to Public Policy  --  Chemistry I & II --  Machine Learning in Epidemiology --  GIS --  Data Science 
+Columbia CORE --		SAS Course --	Epidemiology II & III -- 	Biology I & II -- Epidemiology in Chronic Disease -- Introduction to Public Policy  --  Chemistry I & II --  Machine Learning in Epidemiology --  GIS --  Data Science 
+
+### Internships
+#### Aix- Marsielle Université 						                                     -Summer  2019
+* Sciences Economiques et Sociales de la Santé and Traitment de I’Information  Médicale
+    - Research intern - analyzed and compiled data using SAS in study on people who inject drugs in four European      countries. Used information obtained to develop abstract for the study to be published. Developed presentations of findings to be reviewed weekly by the principal investigator and other team members. Completed and presented research poster of preliminary findings.
+
+#### Columbia University - Mailman School of Public Health                     - Fall 2015- 2018  
+* Herbert Irving Comprehensive Cancer Center (HICCC) Cure Program
+    - Research Intern – Utilizing SAS and Dedoose software; collected, analyzed and compiled data for breast cancer research in Hispanic women population of Washington Heights, NY. Completed formal presentations and provided weekly status updates of data collected. Used information obtained to draft abstract for the research.
+
+#### Department of Health: Bureau of Communicable Disease Control              - Fall 2017	
+* Student Intern -- Interviewed patients that had acquired recent food-borne illnesses. Compiled and cleaned the data for review. Followed on individuals with possible exposure to identify risk of infection.
 
 ### Employment
 
 #### Mailman School of Public Health				                                   -Summer 2018-present
- * Graduate Research Assistant  
-    - Assist with data collection and analysis		
-    - Collect, analyze and compiled data for breast cancer research in Hispanic population
-    - Conduct qualitative and quantitative analysis
+ * Graduate Research Assistant - Assist with data collection and analysis for breast cancer research in Hispanic population.Conduct qualitative and quantitative analysis of data using SAS, Microsoft Access and Excel.
 
 #### The CAS Store    							                                           -Fall 2015- 2018  
-* Clerk 
-    - Assisted students and faculty in obtaining laboratory supplies
-    - Conduct inventory for the store
+* Clerk - Assisted students and faculty in obtaining laboratory supplies from the College of Arts & Science (CAS) Store.Conducted inventory and provided customer service.
 
 #### Franklin County Family Health Center 				                            - Summer 2015
 * Medical Assistant 
     - Assisted all clinicians with patient care 
-
-### Internships
-#### Aix- Marsielle Université 						                                     -Summer  2019
-* Research Intern- Sciences Economiques et Sociales de la Santé and Traitment de I’Information  Médicale
-    - Analyze and compiled data for people who inject drugs in 4 European Countries           
-    - Used information obtained to draft abstract for the research
-    - Develop power point repot to present data to research team
-    - Presented a poster on preliminary findings 
-
-#### Columbia University - Mailman School of Public Health                     - Fall 2015- 2018  
-* Research Intern – Herbert Irving Comprehensive Cancer Center (HICCC) Cure Program
-    - Collect, analyze and compiled data for breast cancer research in Hispanic population
-    - Used information obtained to draft abstract for the research
-    - Develop power point repot to present data to research team
-
-#### Department of Health: Bureau of Communicable Disease Control              - Fall 2018	
-* Student Intern
-    - Interview patients on recent illnesses
-    - Data cleaning
-    - Worked on outbreak cases
-
+    
 ### Publications
 Pacsi‐Sepulveda, A. L., Shelton, R. C., Rodriguez, C. B., Coq, A. T., & Tehranifar, P. (2019). “You probably can’t feel as safe as normal women”: Hispanic women’s reactions to breast density notification. Cancer, 125(12), 2049–2056. doi: 10.1002/cncr.32002
 
