@@ -5,11 +5,13 @@ output:
     toc: true
     toc_float: true
 ---
- <center> <h1>Arielle T. Coq</h1> </center>
+ <center> <h1>Arielle T. Coq, MPH</h1> </center>
   <center> <h2>New york, NY</h2> </center>
   <center> <h3>Tel: 845-264-2353</h3> </center>
   <center> <h4>Email: ac4140@cumc.columbia.edu</h4> </center>
   <center> <h5>Email: arielle.coq@gmail.com</h4> </center>
+### Profile
+I am a professional Epidemiologist with a Master of Public Health from the Mailman School of Public Health at Columbia University. During my time at Mailman, I conducted extensive research on breast cancer, which was also the focus of my thesis. I also have international research experience spanning from my internship in France where I spent a summer studying the assessment of the contraction of Hepatitis C among people who inject drugs in various European countries. These substantive experiences have provided me with a wealth of opportunities to analyze quantitative and qualitative data together as I have been able to utilize statistical platforms such as RStudio, GIS and Dedoose to preform exploratory analyses and predictive modeling. I am striving to collaborate and grow in an innovative and dynamic environment and I believe the skills I have acquired through my various classes and experiences will make me a tremendous asset to your organization. 
 
 ### Education
 * Columbia University, Mailman School of Public Health                            -May 2020
@@ -27,27 +29,45 @@ output:
 ###Relative Coursework
 Columbia CORE --		SAS Course --	Epidemiology II & III -- 	Biology I & II -- Epidemiology in Chronic Disease -- Introduction to Public Policy  --  Chemistry I & II --  Machine Learning in Epidemiology --  GIS --  Data Science 
 
-### Internships
-#### Aix- Marsielle Université 						                                     -Summer  2019
-* Sciences Economiques et Sociales de la Santé and Traitment de I’Information  Médicale
-    - Research intern - analyzed and compiled data using SAS in study on people who inject drugs in four European      countries. Used information obtained to develop abstract for the study to be published. Developed presentations of findings to be reviewed weekly by the principal investigator and other team members. Completed and presented research poster of preliminary findings.
+### Employment and Internships
 
-#### Columbia University - Mailman School of Public Health                     - Fall 2015- 2018  
-* Herbert Irving Comprehensive Cancer Center (HICCC) Cure Program
-    - Research Intern – Utilizing SAS and Dedoose software; collected, analyzed and compiled data for breast cancer research in Hispanic women population of Washington Heights, NY. Completed formal presentations and provided weekly status updates of data collected. Used information obtained to draft abstract for the research.
+#### Mailman School of Public Health				                                   -Summer 2018-October 2020
+ * Graduate Research Assistant 
+      -	Collected and analyzed data for breast cancer research in Hispanic population.
+      -	Conduct qualitative analysis using Dedoose for assessing main themes for 25 phone interviews. 
+      -	Review and audit transcripts to ensure they are consistent with current research projects.
+      -	Facilitated quantitative analysis using SAS and RStudio on preliminary findings on Sister Study Project and HINTS Manuscript. 
+      -	Utilize Microsoft Access to conduct data analysis & cleaning of women’s mammogram and BIRAD reports 
+      -	Effectively communicate with a multi disciplinary team of health care facilities to obtain external data from health care facilities on participants.
+      -	Train new employees on various platforms and conducting data analysis and data cleaning measures. 
+      
+#### Aix- Marseille Université - Sciences Economiques et Sociales de la Santé and Traitment de I’Information  Médical					                                     -Summer  2019
+* Research Intern
+    -	Analyzed and compiled preliminary data using SAS in a study on drug-users in four European countries. 
+    -	Drafted the abstract for the study to be published. 
+    -	Developed presentations of findings to be reviewed weekly by the principal investigator and other team members. 
+    -	Created and presented research poster of preliminary findings.
 
-#### Department of Health: Bureau of Communicable Disease Control              - Fall 2017	
-* Student Intern -- Interviewed patients that had acquired recent food-borne illnesses. Compiled and cleaned the data for review. Followed on individuals with possible exposure to identify risk of infection.
+#### Columbia University - Mailman School of Public Health - Herbert Irving Comprehensive Cancer Center (HICCC) Cure Program  - Fall 2015- 2018  
+* Research Intern
+    – Utilized SAS and Dedoose software; collected, analyzed and compiled data for breast cancer research in Hispanic women population of Washington Heights, NY. 
+    -	Completed formal presentations and provided weekly status updates of data collected. Used information obtained to draft abstract for the research.
 
-### Employment
+#### The CAS Store    							                       -Fall 2015- 2018  
+* Clerk 
+    -	Assisted students and faculty in obtaining laboratory supplies from the College of Arts & Science (CAS) Store. 
+    -	Conducted inventory of the store products.
+    -	Provided customer service to professors and students.
+    -	Used Access database to manage store orders and packages.
+    -	Trained new employees on store procedures and etiquette.
+    
+#### Department of Health: Bureau of Communicable Disease Control         - Fall 2017
+* Student Intern 
+    - Interviewed patients that had acquired recent food-borne illnesses. 
+    -	Compiled and cleaned the data for review. 
+    -	Followed up on individuals with possible exposure to identify risk of infection.
 
-#### Mailman School of Public Health				                                   -Summer 2018-present
- * Graduate Research Assistant - Assist with data collection and analysis for breast cancer research in Hispanic population.Conduct qualitative and quantitative analysis of data using SAS, Microsoft Access and Excel.
-
-#### The CAS Store    							                                           -Fall 2015- 2018  
-* Clerk - Assisted students and faculty in obtaining laboratory supplies from the College of Arts & Science (CAS) Store.Conducted inventory and provided customer service.
-
-#### Franklin County Family Health Center 				                            - Summer 2015
+#### Franklin County Family Health Center 				                    - Summer 2015
 * Medical Assistant 
     - Assisted all clinicians with patient care 
     
@@ -63,7 +83,7 @@ Pacsi‐Sepulveda, A. L., Shelton, R. C., Rodriguez, C. B., Coq, A. T., & Tehran
 * Vice President of Columbia Women Leaders 
 
 ### Skills 
-Proficient - Microsoft Office, PowerPoint, Excel, Access, SAS, R, GIS, Dedoose
+Proficient -SAS, R, GIS, Dedoose, and Microsoft Office: PowerPoint, Excel, Access, Word, Outlook, 
 
 ### Other websites
 
