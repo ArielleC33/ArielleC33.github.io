@@ -5,32 +5,46 @@ output:
     toc: true
     toc_float: true
 ---
- <center> <h1>Arielle T. Coq, MPH</h1> </center>
-  <center> <h2>New york, NY</h2> </center>
-  <center> <h3>Tel: 845-264-2353</h3> </center>
-  <center> <h4>Email Primary: arielle.coq@gmail.com </h4> </center>
-  <center> <h5>Email Secondary: ac4140@cumc.columbia.edu</h5> </center>
-  
-### Profile
+<h1>Arielle T. Coq, MPH</h1> 
+<h2>New york, NY</h2> 
+<h3>Tel: 845-264-2353</h3> 
+<h4>Email Primary: arielle.coq@gmail.com </h4> 
+<h5>Email Secondary: ac4140@cumc.columbia.edu</h5> 
+
+<div class="fluid-row" id="header"
+
+</div>
+<div id="Profile" class="section level1">
+<h1>Profile</h1>
+
 I am a professional Epidemiologist with a Master of Public Health from the Mailman School of Public Health at Columbia University. During my time at Mailman, I conducted extensive research on breast cancer, which was also the focus of my thesis. I also have international research experience spanning from my internship in France where I spent a summer studying the assessment of the contraction of Hepatitis C among people who inject drugs in various European countries. These substantive experiences have provided me with a wealth of opportunities to analyze quantitative and qualitative data together as I have been able to utilize statistical platforms such as RStudio, GIS and Dedoose to preform exploratory analyses and predictive modeling. I am striving to collaborate and grow in an innovative and dynamic environment and I believe the skills I have acquired through my various classes and experiences will make me a tremendous asset to your organization. 
 
-### Education
-* Columbia University, Mailman School of Public Health                            -May 2020
-    - Master of Public Health
-        - Department – Epidemiology 
-        - Certificate – Epidemiology of Chronic Disease                   
-* State University of New York at Albany                                          -May 2018
-    - Bachelor of Scinece
-        - Major – Public Health     
-        - Minor - Biology   
-        - Minor- Emergency Preparedness, Homeland Security and Cyber security	
-* Our Lady of Lourdes High School                                                 - June 2014
-    - Regents Diploma, Honors	                            
-    
-### Employment and Internships
+</center> 
 
-#### Mailman School of Public Health				                                   -Summer 2018-October 2020
- * Graduate Research Assistant 
+<h1>Education</h1>
+#### Columbia University, Mailman School of Public Health                - May 2020
+ * Master of Public Health
+    - Department – Epidemiology 
+    - Certificate – Epidemiology of Chronic Disease 
+        
+#### State University of New York at Albany                              - May 2018
+ * Bachelor of Scinece
+    - Major – Public Health     
+    - Minor - Biology   
+    - Minor- Emergency Preparedness, Homeland Security and Cyber security	
+        
+#### Our Lady of Lourdes High School                                    - June 2014
+  * Regents Diploma
+    - Honors	                            
+    
+</center> 
+
+<h1>Employment and Internships</h1>    
+
+#### Columbia University, Mailman School of Public Health  
+ * Location - Washington Heights, NY
+ * Time - Summer 2018 - October 2020
+ * Title -Graduate Research Assistant 
       -	Collected and analyzed data for breast cancer research in Hispanic population.
       -	Conduct qualitative analysis using Dedoose for assessing main themes for 25 phone interviews. 
       -	Review and audit transcripts to ensure they are consistent with current research projects.
@@ -39,7 +53,7 @@ I am a professional Epidemiologist with a Master of Public Health from the Mailm
       -	Effectively communicate with a multi disciplinary team of health care facilities to obtain external data from health care facilities on participants.
       -	Train new employees on various platforms and conducting data analysis and data cleaning measures. 
       
-#### Aix- Marseille Université - Sciences Economiques et Sociales de la Santé and Traitment de I’Information  Médical					                                     -Summer  2019
+#### Aix- Marseille Université - Sciences Economiques et Sociales de la Santé and Traitment de I’Information  Médical	- Marseille, France	 - Summer  2019
 * Research Intern
     -	Analyzed and compiled preliminary data using SAS in a study on drug-users in four European countries. 
     -	Drafted the abstract for the study to be published. 
@@ -68,11 +82,18 @@ I am a professional Epidemiologist with a Master of Public Health from the Mailm
 #### Franklin County Family Health Center 				                    - Summer 2015
 * Medical Assistant 
     - Assisted all clinicians with patient care 
-    
-### Publications
+
+</center> 
+
+<h1>Publications</h1> 
+
 Pacsi‐Sepulveda, A. L., Shelton, R. C., Rodriguez, C. B., Coq, A. T., & Tehranifar, P. (2019). “You probably can’t feel as safe as normal women”: Hispanic women’s reactions to breast density notification. Cancer, 125(12), 2049–2056. doi: 10.1002/cncr.32002
 
-### Other Relevant Information
+
+</center> 
+
+<h1>Other Relevant Information</h1>
+
 <details>
 <summary> Proficient in the following Skills</summary>
 <li>SAS</li>
@@ -113,11 +134,11 @@ Pacsi‐Sepulveda, A. L., Shelton, R. C., Rodriguez, C. B., Coq, A. T., & Tehran
 <li>Member of the National Society of Leadership and Success</li>
 </details>
 
-### Other websites
+</center> 
 
-The website below was done for a class assignment. My group members and I were curious of food insecurities in the five boroughs of New York. We assessed the rates of food insecurity in each borough and did some explaratory analysis on the data that we found. We also created a page that would provide resources to indviduals with healthy food choices for each borough. 
+<h1>Other websites</h1> 
 
 https://mm5351.github.io/foodjusticenyc.github.io/
 
-
+The website below was done for a class assignment. My group members and I were curious of food insecurities in the five boroughs of New York. We assessed the rates of food insecurity in each borough and did some explaratory analysis on the data that we found. We also created a page that would provide resources to indviduals with healthy food choices for each borough. 
 
